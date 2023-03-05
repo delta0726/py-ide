@@ -1,0 +1,17 @@
+■プラグイン
+Python Smart Execute
+
+
+■キーマップ（Python）
+＜ポイント＞
+以下の設定でpyファイルとipynbの両方からShift + EnterでPythonコンソールにスクリプトを飛ばすことができる
+
+＜設定＞
+Smart execute selection in console
+⇒Shift + Enter
+
+Pythonコンソールで選択範囲を実行
+⇒Alt + Shift + E
+※上記と競合しないようにしておく
+
+
